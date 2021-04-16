@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>data/Hanoi_input.txt</name>
+			<type>1</type>
+			<location>D:/Usuario/Documents/U/3° Semestre/APO 2/Seguimientos/S10/Hanoi_input.txt</location>
+		</link>
+	</linkedResources>
 </projectDescription>
