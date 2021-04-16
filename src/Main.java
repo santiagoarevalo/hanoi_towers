@@ -57,6 +57,8 @@ public class Main {
 		for(int i = 0; i<m; i++) {
 			int nDisks = Integer.parseInt(br.readLine());
 			contA = nDisks;
+			contB = 0;
+			contC = 0;
 			bw.write(Integer.toString(nDisks) + "0" + "0\n");
 			Hanoi(nDisks, 1, 2, 3);
 			bw.newLine();
